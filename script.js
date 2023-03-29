@@ -15,5 +15,5 @@ btn.style.transition = "all 0.3s ease";
 });
 
 function tanks() {
-alert("UHUUUUUU TE ADORO MUUUITOO!!! :)");
+alert("UHUUUUUU TE ADORO MUUUITOO!!!");
 }    
